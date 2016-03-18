@@ -1,0 +1,14 @@
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\bin\Debug\AplicacionLecturaApacheMQ2.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\bin\Debug\AplicacionLecturaApacheMQ2.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\bin\Debug\AplicacionLecturaApacheMQ2.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\bin\Debug\Apache.NMS.dll
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\bin\Debug\Mensajes.dll
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\bin\Debug\Mensajes.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\bin\Debug\Apache.NMS.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\bin\Debug\Apache.NMS.xml
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\obj\Debug\AplicacionLecturaApacheMQ2.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\obj\Debug\AplicacionLecturaApacheMQ2.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionLecturaApacheMQ2\obj\Debug\AplicacionLecturaApacheMQ2.pdb

@@ -1,0 +1,9 @@
+c:\users\kevin\documents\visual studio 2013\Projects\Mensajes\Mensajes\bin\Debug\Mensajes.dll
+c:\users\kevin\documents\visual studio 2013\Projects\Mensajes\Mensajes\bin\Debug\Mensajes.pdb
+c:\users\kevin\documents\visual studio 2013\Projects\Mensajes\Mensajes\obj\Debug\Mensajes.dll
+c:\users\kevin\documents\visual studio 2013\Projects\Mensajes\Mensajes\obj\Debug\Mensajes.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\Mensajes\bin\Debug\Mensajes.dll
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\Mensajes\bin\Debug\Mensajes.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\Mensajes\obj\Debug\Mensajes.dll
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\Mensajes\obj\Debug\Mensajes.pdb
+C:\Users\Kevin\documents\visual studio 2013\Projects\AplicacionApacheMQ\Mensajes\obj\Debug\Mensajes.csprojResolveAssemblyReference.cache

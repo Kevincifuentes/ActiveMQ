@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionApacheMQ", "AplicacionApacheMQ\AplicacionApacheMQ.csproj", "{6D125DB0-AAFF-4194-B40A-3B933F8AD382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mensajes", "Mensajes\Mensajes.csproj", "{E14F8C10-0400-40A0-999D-78BB4F624DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicaciónLecturaApacheMQ", "AplicaciónLecturaApacheMQ\AplicaciónLecturaApacheMQ.csproj", "{C583ECD0-08A2-43D5-9B40-BD9B4D324178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionLecturaApacheMQ2", "AplicacionLecturaApacheMQ2\AplicacionLecturaApacheMQ2.csproj", "{319F60AA-A26D-4F29-BD6D-13DF3DF970DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D125DB0-AAFF-4194-B40A-3B933F8AD382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D125DB0-AAFF-4194-B40A-3B933F8AD382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D125DB0-AAFF-4194-B40A-3B933F8AD382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D125DB0-AAFF-4194-B40A-3B933F8AD382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E14F8C10-0400-40A0-999D-78BB4F624DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14F8C10-0400-40A0-999D-78BB4F624DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14F8C10-0400-40A0-999D-78BB4F624DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14F8C10-0400-40A0-999D-78BB4F624DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C583ECD0-08A2-43D5-9B40-BD9B4D324178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C583ECD0-08A2-43D5-9B40-BD9B4D324178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C583ECD0-08A2-43D5-9B40-BD9B4D324178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C583ECD0-08A2-43D5-9B40-BD9B4D324178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319F60AA-A26D-4F29-BD6D-13DF3DF970DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319F60AA-A26D-4F29-BD6D-13DF3DF970DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319F60AA-A26D-4F29-BD6D-13DF3DF970DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319F60AA-A26D-4F29-BD6D-13DF3DF970DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

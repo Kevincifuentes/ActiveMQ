@@ -1,0 +1,14 @@
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\bin\Debug\AplicacionApacheMQ.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\bin\Debug\AplicacionApacheMQ.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\bin\Debug\AplicacionApacheMQ.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\bin\Debug\Apache.NMS.dll
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\bin\Debug\Mensajes.dll
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\bin\Debug\Mensajes.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\bin\Debug\Apache.NMS.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\bin\Debug\Apache.NMS.xml
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\obj\Debug\AplicacionApacheMQ.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\obj\Debug\AplicacionApacheMQ.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\AplicacionApacheMQ\AplicacionApacheMQ\obj\Debug\AplicacionApacheMQ.pdb
